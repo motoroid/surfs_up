@@ -10,9 +10,12 @@
 
 
 ## Summary
-#### The summary statistics for the temps in June and December are below.  
-June temps.png
-December temps.png
+#### The summary statistics for the temps in June and December are below. 
+![June temps](https://user-images.githubusercontent.com/115171651/211433423-fc6b463f-1461-48dc-bb5a-8ff665470af5.png)
+![December temps](https://user-images.githubusercontent.com/115171651/211433427-30cfd1cd-ff69-4445-8926-29afd2a781a6.png)
+
+
+
 ### Two optional queries are
 #### 1.
 
