@@ -16,8 +16,8 @@
 
 It appears that the average temperature is pretty similar and the lows in december don't seem enough not to continue with the shop.  In general the mean and other numbers are pretty similar only a few degrees off of each other.  
 ### Two optional queries are
-#### 1.
+#### 1.  Since June and Decenber are the start of summer and winter there is an option to do march and september to capture spring and fall.  
 
-#### 2.  
+#### 2.  Another option is to capture a couple months within the rainy season of Hawaii between November to March.  
 
 
